@@ -17,6 +17,7 @@ fetchUser((name) => {
     console.log(name);
 })
 
+vedio link: https://vimeo.com/1037004709/006d20eee5
 
 Output Based question
 
@@ -91,7 +92,7 @@ const result = nums
 
 console.log(result.reduce((total,num) => total + num,0))
 
-
+vedio link: https://vimeo.com/1037004709/006d20eee5
 
 OutputBased question
 
@@ -165,7 +166,7 @@ const freq = chars.split(").reduce((acc,char) => {
 
 console.log(freq);
 
-
+vedio link: https://vimeo.com/1037004709/006d20eee5
 
 OutputBased question
 
@@ -222,6 +223,10 @@ const nums = [1,10,2];
 nums.sort((a,b) => a - b);
 console.log(nums)
 
+
+vedio link: https://vimeo.com/1037004709/006d20eee5
+
+
 output Based question
 
 const users = [
@@ -277,6 +282,8 @@ const obj = {
 };
 obj.greet();
 
+vedio link: https://vimeo.com/1037004709/006d20eee5
+
 
 outputbased question
 
@@ -325,7 +332,7 @@ const obj = {
 const detachedGetNum = obj.getNum.bind(obj); 
 console.log(detachedGetNum()); 
 
-
+vedio link: https://vimeo.com/1037004709/006d20eee5
 
 Outputbased question
 

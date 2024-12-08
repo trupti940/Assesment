@@ -16,19 +16,15 @@ A simple user dashboard app that allows users to view, search, and delete users.
 
 ## Setup Instructions
 
-### Prerequisites
-Before you start, make sure you have the following installed:
-- [Node.js](https://nodejs.org/) (LTS version recommended)
-- [npm](https://www.npmjs.com/) (comes with Node.js)
-
 ### 1. Clone the Repository
 
 First, clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/trupti940/day2JS_bgr_drive.git
 cd dashboardPage
 npm install
 npm run dev
+```
 
 deployed link : https://calm-pithivier-811125.netlify.app/

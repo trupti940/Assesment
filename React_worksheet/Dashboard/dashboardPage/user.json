@@ -1,0 +1,19 @@
+{
+    "users": {
+      "user1": {
+        "id": "1",
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "bio": "Web Developer",
+        "profilePicture": "https://as1.ftcdn.net/v2/jpg/02/83/12/98/1000_F_283129831_MTTjxBv6zrcSREEsmLgvLQJFU0HyW2ui.jpg"
+      },
+      "user2": {
+        "id": "2",
+        "name": "Bob Smith",
+        "email": "bob@example.com",
+        "bio": "UI Designer",
+        "profilePicture": "https://png.pngtree.com/png-vector/20240419/ourmid/pngtree-a-happy-corporate-business-professional-one-man-in-an-empty-background-png-image_12298579.png"
+      }
+    }
+  }
+  
